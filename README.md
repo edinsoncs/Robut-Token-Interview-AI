@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/atstrc-2ab58.firebasestorage.app/o/ChatGPT%20Image%2024%20mar%202026%2C%2003_37_14%20p.m..png?alt=media" alt="ROBUT Logo" width="300" height="600" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/atstrc-2ab58.firebasestorage.app/o/ChatGPT%20Image%2024%20mar%202026%2C%2003_37_14%20p.m..png?alt=media" alt="ROBUT Logo" width="500" height="700" />
 </p>
 
 <h1 align="center">ROBUT</h1>
