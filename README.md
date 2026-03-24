@@ -22,9 +22,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Launch%20Token-pump.fun-blueviolet?style=for-the-badge&logo=solana" alt="Pump.fun" />
-</p>
+
 
 ## ROBUT Token
 
