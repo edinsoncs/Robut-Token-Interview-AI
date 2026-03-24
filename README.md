@@ -28,16 +28,16 @@
 
 ## ROBUT Token
 
-> **Coming Soon on Pump.fun**
+> **Coming Soon on BAGS.fm**
 
-ROBUT is not just a platform - it's a movement. We're launching the **ROBUT Token** on [pump.fun](https://pump.fun) to empower our community and bring decentralized governance to AI-powered hiring.
+ROBUT is not just a platform - it's a movement. We're launching the **ROBUT Token** on [bags.fm]([https://pump.fun](https://bags.fm/3dsaYyA8XvNj8uQZpiZk66x1weLKSViSubtXRefCBAGS)) to empower our community and bring decentralized governance to AI-powered hiring.
 
 | Token Details | Information |
 |---------------|-------------|
 | **Token Name** | ROBUT |
 | **Blockchain** | Solana |
-| **Launch Platform** | [pump.fun](https://pump.fun) |
-| **Contract Address** | `TBA - Coming Soon` |
+| **Launch Platform** | [bags.fm]([https://bags.fm](https://bags.fm/3dsaYyA8XvNj8uQZpiZk66x1weLKSViSubtXRefCBAGS)) |
+| **Contract Address** | `$RAI - 3dsaYyA8XvNj8uQZpiZk66x1weLKSViSubtXRefCBAGS` |
 
 ### Why ROBUT Token?
 
